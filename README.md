@@ -1,3 +1,3 @@
 # Expo Router Example
 
-experiment with new expo router
+experimenting with new expo router
